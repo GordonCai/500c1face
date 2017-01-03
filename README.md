@@ -1,4 +1,4 @@
-### WITCH: EC500C1 Face Recognition/Makeup Project
+### WITCH: EC500C1/EC601 Face Recognition/Makeup Project
 
 > Hello World. We're team "Witch" from ECE department, Boston University.
 Witch is a curriculum-based software application team project. A core technology objective was given to us, face recognition, and we have sucessfully transformed it in terms of building a real-world executable and marketable application. 
